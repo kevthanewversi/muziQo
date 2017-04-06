@@ -1,0 +1,16 @@
+{
+  "name": "muziqo",
+  "version": "1.0.0",
+  "description": "a facebook messanger music bot",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "0.x",
+    "botpress-messenger": "^2.0.7"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevthanewversi",
+  "license": "AGPL-3.0"
+}
